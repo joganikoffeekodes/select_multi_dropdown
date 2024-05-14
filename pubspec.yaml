@@ -6,7 +6,7 @@ description: >
   changes. Ideal for use in forms and data input scenarios where multiple
   choices are required.
 version: 0.0.1
-homepage:
+homepage: https://github.com/joganikoffeekodes/select_multi_dropdown
 
 environment:
   sdk: '>=3.3.4 <4.0.0'
