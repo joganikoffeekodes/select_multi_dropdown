@@ -9,7 +9,7 @@ Multi-Select Dropdown package lets you add a customizable multi-select dropdown 
 1. Add the latest version of the package to your `pubspec.yaml` (and run `dart pub get`):
 ```yaml
 dependencies:
-  select_multi_dropdown: ^0.0.1
+  select_multi_dropdown: ^0.0.2
 ```
 2. Import the package and use it in your Flutter App.
 ```dart

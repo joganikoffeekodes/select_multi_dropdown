@@ -5,7 +5,7 @@ description: >
   dynamic item lists, initial selection, and provides callbacks for selection
   changes. Ideal for use in forms and data input scenarios where multiple
   choices are required.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/joganikoffeekodes/select_multi_dropdown
 
 environment:
